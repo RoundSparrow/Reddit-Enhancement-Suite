@@ -1,6 +1,6 @@
 {
 	"name": "Reddit Enhancement Suite",
-	"version": "4.5.4",
+	"version": "4.5.4.1",
 	"manifest_version": 2,
 	"minimum_chrome_version": "26.0",
 	"description": "Reddit Enhancement Suite - a group of enhancements for browsing Reddit",
@@ -84,6 +84,7 @@
 				"modules/userbarHider.js",
 				"modules/accountSwitcher.js",
 				"modules/filteReddit.js",
+				"modules/topicReddit.js",
 				"modules/newCommentCount.js",
 				"modules/spamButton.js",
 				"modules/commentNavigator.js",
